@@ -5,7 +5,7 @@
 <p align="center">
   I'm a developer learning Python and Brainfuck.<br/>
   In my free time, I maintain LineageOS with integrated MicroG for the Redmi Note 13 4G.<br/>
- ***Here you'll find my scripts and dotfiles.***
+ <b>Here you'll find my scripts and dotfiles.</b>
 </p>
 
 > For educational purposes only!
