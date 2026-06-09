@@ -3,8 +3,9 @@
 </p>
 
 <p align="center"
-I'm a developer learning Python and Brainfuck.<br/>
-In my free time, I maintain LineageOS + MicroG for the Redmi Note 13 4G.<br/>
+I'm a developer learning Python and Brainfuck.
+In my free time, I maintain LineageOS with integrated MicroG for the Redmi Note 13 4G,
+focused on delivering a smooth and stable experience.
 Here you'll find my scripts and dotfiles.
 </p>
 
