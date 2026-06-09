@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/img/back.jpg" alt="Banner"/>
+</p>
+
 <p align="center"
 I'm a developer learning Python and Brainfuck.<br/>
 In my free time, I maintain LineageOS + MicroG for the Redmi Note 13 4G.<br/>
