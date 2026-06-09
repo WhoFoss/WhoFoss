@@ -1,39 +1,37 @@
-<p align="center">
-  <img src="assets/img/dc163b42fb863411d390c6dfba7ebf73.jpg" alt="Banner"/>
-</p>
+<h2 align="center">💻 MINHA ÁREA DE ATUAÇÃO</h2>
 
-<h1 align="center">WhoFoss</h1>
+- 📱 Desenvolvimento de ROMs Android
+- 🔧 Kernel & Internos do Sistema
+- 🐧 Administração Linux
+- 📡 Segurança de Redes
+- ⚙️ Shell Scripting & Automação
 
-<p align="center">
-  MMM
-</p>
+> Apenas para fins educacionais!
 
 ---
 
-### 📱 Dispositivo & ROM
+<details>
+<summary> Minhas Habilidades</summary>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Bash-191724?style=for-the-badge&logo=gnubash"/></a><a href="#"><img src="https://img.shields.io/badge/Python-191724?style=for-the-badge&logo=python"/></a><a href="#"><img src="https://img.shields.io/badge/C-191724?style=for-the-badge&logo=c"/></a><a href="#"><img src="https://img.shields.io/badge/Rust-191724?style=for-the-badge&logo=rust"/></a><a href="#"><img src="https://img.shields.io/badge/Linux-191724?style=for-the-badge&logo=linux"/></a><a href="#"><img src="https://img.shields.io/badge/Android-191724?style=for-the-badge&logo=android"/></a><a href="#"><img src="https://img.shields.io/badge/HTML-191724?style=for-the-badge&logo=html5"/></a><a href="#"><img src="https://img.shields.io/badge/CSS-191724?style=for-the-badge&logo=css3"/></a><a href="#"><img src="https://img.shields.io/badge/Brainfuck-191724?style=for-the-badge&logo=data:image/png;base64,"/></a>
+</details>
 
+---
+
+<details>
+<summary> Dispositivo & ROM</summary>
+<br/>
 <a href="https://lineageos.org/"><img src="https://img.shields.io/badge/LineageOS-191724?style=for-the-badge&logo=lineageos"/></a><a href="https://microg.org/"><img src="https://img.shields.io/badge/MicroG-191724?style=for-the-badge&logo=android"/></a><a href="https://kernelsu.org/"><img src="https://img.shields.io/badge/KernelSU-191724?style=for-the-badge&logo=linux"/></a><a href="https://github.com/WhoFoss"><img src="https://img.shields.io/badge/Redmi_Note_13_4G-191724?style=for-the-badge&logo=xiaomi"/></a>
+</details>
 
 ---
 
-### 🖥️ Sistema & Ferramentas
+### Sistema Operacional:
 
-<a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/Linux_Mint-191724?style=for-the-badge&logo=linuxmint"/></a><a href="https://termux.dev/"><img src="https://img.shields.io/badge/Termux-191724?style=for-the-badge&logo=gnometerminal"/></a><a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-191724?style=for-the-badge&logo=neovim"/></a><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git"/></a>
-
----
-
-### 💻 Linguagens
-
-<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-191724?style=for-the-badge&logo=gnubash"/></a><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-191724?style=for-the-badge&logo=python"/></a><a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Makefile-191724?style=for-the-badge&logo=cmake"/></a>
+<a href="https://biglinux.com.br/"><img src="https://img.shields.io/badge/BigLinux-191724?style=for-the-badge&logo=manjaro"/></a><a href="https://tails.boum.org/"><img src="https://img.shields.io/badge/Tails-191724?style=for-the-badge&logo=torproject"/></a><a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-191724?style=for-the-badge&logo=android"/></a>
 
 ---
 
-### 📚 Estudando Atualmente
-
-<a href="https://www.iso.org/standard/74528.html"><img src="https://img.shields.io/badge/C-191724?style=for-the-badge&logo=c"/></a><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-191724?style=for-the-badge&logo=rust"/></a>
-
----
-
-### 📬 Contato
+### Contato:
 
 <a href="https://t.me/whofoss"><img src="https://img.shields.io/badge/Telegram-191724?style=for-the-badge&logo=telegram"/></a><a href="https://github.com/WhoFoss"><img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github"/></a>
