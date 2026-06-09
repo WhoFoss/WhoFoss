@@ -2,11 +2,11 @@
   <img src="./assets/img/b8ea712858075da7137363ac40b3aad3.jpg" alt="Banner"/>
 </p>
 
-<p align="center"
-I'm a developer learning Python and Brainfuck.
-In my free time, I maintain LineageOS with integrated MicroG for the Redmi Note 13 4G,
-focused on delivering a smooth and stable experience.
-Here you'll find my scripts and dotfiles.
+<p align="center">
+  I'm a developer learning Python and Brainfuck.<br/>
+  In my free time, I maintain LineageOS with integrated MicroG for the Redmi Note 13 4G,<br/>
+  focused on delivering a smooth and stable experience.<br/>
+  Here you'll find my scripts and dotfiles.
 </p>
 
 > For educational purposes only!
