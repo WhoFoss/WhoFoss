@@ -23,7 +23,7 @@
 <details>
 <summary> Device & ROM</summary>
 <br/>
-<a href="https://lineageos.org/"><img src="https://img.shields.io/badge/LineageOS-191724?style=for-the-badge&logo=lineageos&logoColor=white"/></a><a href="https://microg.org/"><img src="https://img.shields.io/badge/MicroG-191724?style=for-the-badge&logo=android&logoColor=white"/></a><a href="https://kernelsu.org/"><img src="https://img.shields.io/badge/KernelSU-191724?style=for-the-badge&logo=linux&logoColor=white"/></a><a href="https://github.com/WhoFoss"><img src="https://img.shields.io/badge/Redmi_Note_13_4G-191724?style=for-the-badge&logo=xiaomi&logoColor=white"/></a>
+<a href="https://sourceforge.net/projects/whofoss/files/sapphire/los23/lineage-23.2-20260610-UNOFFICIAL-sapphire.zip/download"><img src="https://img.shields.io/badge/LineageOS-191724?style=for-the-badge&logo=lineageos&logoColor=white"/></a><a href="https://microg.org/"><img src="https://img.shields.io/badge/MicroG-191724?style=for-the-badge&logo=android&logoColor=white"/></a><a href="https://kernelsu.org/"><img src="https://img.shields.io/badge/KernelSU-191724?style=for-the-badge&logo=linux&logoColor=white"/></a><a href="https://github.com/WhoFoss"><img src="https://img.shields.io/badge/Redmi_Note_13_4G-191724?style=for-the-badge&logo=xiaomi&logoColor=white"/></a>
 </details>
 
 ---
